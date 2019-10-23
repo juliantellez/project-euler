@@ -1,0 +1,4 @@
+--require ts-node/register/transpile-only
+--watch-extensions ts
+
+src/**/*.ts
