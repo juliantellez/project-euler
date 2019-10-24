@@ -9,3 +9,4 @@ This repository contains my solutions and attempts to solve the problems archive
 ## Problems
 
 1. [Multiples of 3 and 5](https://github.com/juliantellez/project-euler/tree/master/src/1)
+2. [Even Fibonacci numbers](https://github.com/juliantellez/project-euler/tree/master/src/2)
